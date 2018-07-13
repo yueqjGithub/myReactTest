@@ -1,0 +1,8 @@
+.comment{
+    width:50%;
+    margin: 5px auto;
+    border: 1px dotted black;
+}
+.comment h3{
+    color:#cb0000;
+}
